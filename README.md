@@ -1,4 +1,4 @@
-# dbt_learning
+# dbt Courses
 
 This list was curated by [Bruno Souza de Lima](https://www.linkedin.com/in/brunoszdl/) at his [LinkedIn post](https://www.linkedin.com/posts/brunoszdl_dbt-dataengineering-dataengineer-activity-7202687654637797376-Rgtj/) 
 
