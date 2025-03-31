@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: dbt_learn_jinja
+    description: a clone of a fake database
+    database: dbt-training-3209
+    schema: dbt_learn_jinja
+    tables:
+      - name: orders__amazon
+        description: fake amazon data
+        columns:
+          - name: order_id
+            description: primary key for amazon data
+      - name: orders__shopify
+        description: fake shopify data
+        columns:
+          - name: order_id
+            description: primary key for shopify data
